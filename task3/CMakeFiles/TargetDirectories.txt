@@ -1,0 +1,3 @@
+/home/kostjaog/CLionProjects/task3/CMakeFiles/rebuild_cache.dir
+/home/kostjaog/CLionProjects/task3/CMakeFiles/edit_cache.dir
+/home/kostjaog/CLionProjects/task3/CMakeFiles/task3.dir

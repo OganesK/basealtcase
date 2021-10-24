@@ -1,0 +1,1274 @@
+COMMAND     PID     USER   FD      TYPE             DEVICE  SIZE/OFF    NODE NAME
+github-de 64107 kostjaog  cwd       DIR               0,40       600     257 /home/kostjaog
+github-de 64107 kostjaog  rtd       DIR               0,34       184     256 /
+github-de 64107 kostjaog  txt       REG               0,34 133677904  284361 /usr/lib/github-desktop/github-desktop
+github-de 64107 kostjaog  mem       REG               0,32            284361 /usr/lib/github-desktop/github-desktop (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             59754 /usr/share/fonts/dejavu-sans-mono-fonts/DejaVuSansMono.ttf (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448774 /usr/share/fonts/liberation-mono/LiberationMono-Regular.ttf (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448783 /usr/share/fonts/liberation-sans/LiberationSans-Regular.ttf (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             59736 /usr/share/fonts/cantarell/Cantarell-Bold.otf (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             59739 /usr/share/fonts/cantarell/Cantarell-Regular.otf (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            285303 /usr/lib/github-desktop/resources/app/fs_admin.node (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171299 /usr/lib64/libstdc++.so.6.0.29 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31353 /usr/lib64/libsecret-1.so.0.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            285787 /usr/lib/github-desktop/resources/app/keytar.node (path dev=0,34)
+github-de 64107 kostjaog  DEL       REG               0,24            107335 /dev/shm/.org.chromium.Chromium.h7hE6Q
+github-de 64107 kostjaog  DEL       REG               0,24             30476 /dev/shm/.org.chromium.Chromium.r03Mzg
+github-de 64107 kostjaog  mem       REG               0,32             11760 /home/kostjaog/.config/GitHub Desktop/Dictionaries/en-US-9-0.bdic (path dev=0,40)
+github-de 64107 kostjaog  mem       REG               0,32             59738 /usr/share/fonts/cantarell/Cantarell-Light.otf (path dev=0,34)
+github-de 64107 kostjaog  DEL       REG               0,24             30475 /dev/shm/.org.chromium.Chromium.9tioth
+github-de 64107 kostjaog  DEL       REG               0,24             30457 /dev/shm/.org.chromium.Chromium.QsWCio
+github-de 64107 kostjaog  mem       REG               0,32            284423 /usr/lib/github-desktop/resources.pak (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            284379 /usr/lib/github-desktop/locales/en-US.pak (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            284360 /usr/lib/github-desktop/chrome_200_percent.pak (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            284359 /usr/lib/github-desktop/chrome_100_percent.pak (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            286032 /usr/lib/github-desktop/v8_context_snapshot.bin (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            284362 /usr/lib/github-desktop/icudtl.dat (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            170323 /usr/lib/locale/locale-archive (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30641 /usr/lib64/libbrotlicommon.so.1.0.9 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30908 /usr/lib64/libgpg-error.so.0.32.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30893 /usr/lib64/libgmp.so.10.4.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171745 /usr/lib64/libhogweed.so.6.4 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171747 /usr/lib64/libnettle.so.8.4 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31415 /usr/lib64/libtasn1.so.6.6.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31465 /usr/lib64/libunistring.so.2.1.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171900 /usr/lib64/libidn2.so.0.3.7 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31211 /usr/lib64/libp11-kit.so.0.3.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            178196 /usr/lib64/libcrypto.so.1.1.1l (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31055 /usr/lib64/libkeyutils.so.1.9 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            178474 /usr/lib64/libkrb5support.so.0.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30699 /usr/lib64/libcom_err.so.2.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            178466 /usr/lib64/libk5crypto.so.3.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            178472 /usr/lib64/libkrb5.so.3.3 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30724 /usr/lib64/libdatrie.so.1.4.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30642 /usr/lib64/libbrotlidec.so.1.0.9 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30647 /usr/lib64/libbz2.so.1.0.8 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171317 /usr/lib64/libxml2.so.2.9.12 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30915 /usr/lib64/libgraphite2.so.3.2.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171892 /usr/lib64/libgcrypt.so.20.3.3 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30661 /usr/lib64/libcap.so.2.48 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31092 /usr/lib64/liblz4.so.1.9.3 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171459 /usr/lib64/libzstd.so.1.5.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31093 /usr/lib64/liblzma.so.5.2.5 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31239 /usr/lib64/libpcre2-8.so.0.10.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30624 /usr/lib64/libblkid.so.1.1.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171936 /usr/lib64/libgnutls.so.30.30.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171667 /usr/lib64/libavahi-client.so.3.2.9 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171669 /usr/lib64/libavahi-common.so.3.5.4 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            178462 /usr/lib64/libgssapi_krb5.so.2.2 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31532 /usr/lib64/libwayland-server.so.0.1.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30542 /usr/lib64/libXrender.so.1.3.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31567 /usr/lib64/libxcb-render.so.0.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31571 /usr/lib64/libxcb-shm.so.0.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31252 /usr/lib64/libpixman-1.so.0.40.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31429 /usr/lib64/libthai.so.0.3.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31531 /usr/lib64/libwayland-egl.so.1.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31530 /usr/lib64/libwayland-cursor.so.0.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30529 /usr/lib64/libXcursor.so.1.0.2 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30537 /usr/lib64/libXinerama.so.1.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30831 /usr/lib64/libfreetype.so.6.17.4 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            178512 /usr/lib64/libfontconfig.so.1.12.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30989 /usr/lib64/libharfbuzz.so.0.20704.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            221803 /usr/lib64/libpangoft2-1.0.so.0.4800.10 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30832 /usr/lib64/libfribidi.so.0.4.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171677 /usr/lib64/libepoxy.so.0.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31529 /usr/lib64/libwayland-client.so.0.3.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30652 /usr/lib64/libcairo-gobject.so.2.11704.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30536 /usr/lib64/libXi.so.6.1.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            173196 /usr/lib64/libcloudproviders.so.0.3.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448297 /usr/lib64/libjpeg.so.62.3.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31265 /usr/lib64/libpng16.so.16.37.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448217 /usr/lib64/libsystemd.so.0.31.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30527 /usr/lib64/libXau.so.6.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448260 /usr/lib64/libplds4.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448259 /usr/lib64/libplc4.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            170604 /usr/lib64/libresolv-2.33.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31354 /usr/lib64/libselinux.so.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31115 /usr/lib64/libmount.so.1.1.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31627 /usr/lib64/libz.so.1.2.11 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171179 /usr/lib64/libgmodule-2.0.so.0.6800.4 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31236 /usr/lib64/libpcre.so.1.2.12 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30804 /usr/lib64/libffi.so.6.0.2 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            170588 /usr/lib64/libc-2.33.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            168495 /usr/lib64/libgcc_s-11-20210728.so.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            254620 /usr/lib64/libatspi.so.0.0.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            178673 /usr/lib64/libcups.so.2 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171577 /usr/lib64/libasound.so.2.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448310 /usr/lib64/libgbm.so.1.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171733 /usr/lib64/libxkbcommon.so.0.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171556 /usr/lib64/libdrm.so.2.4.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171451 /usr/lib64/libexpat.so.1.8.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30541 /usr/lib64/libXrandr.so.2.2.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            221813 /usr/lib64/libXfixes.so.3.1.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30532 /usr/lib64/libXext.so.6.4.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30530 /usr/lib64/libXdamage.so.1.1.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30528 /usr/lib64/libXcomposite.so.1.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            170592 /usr/lib64/libm-2.33.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30654 /usr/lib64/libcairo.so.2.11704.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            221799 /usr/lib64/libpango-1.0.so.0.4800.10 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            221801 /usr/lib64/libpangocairo-1.0.so.0.4800.10 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            232877 /usr/lib64/libgdk-3.so.0.2404.26 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            232879 /usr/lib64/libgtk-3.so.0.2404.26 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171335 /usr/lib64/libgdk_pixbuf-2.0.so.0.4200.6 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30729 /usr/lib64/libdbus-1.so.3.19.13 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             31583 /usr/lib64/libxcb.so.1.1.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171865 /usr/lib64/libX11-xcb.so.1.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            221780 /usr/lib64/libX11.so.6.4.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30583 /usr/lib64/libatk-bridge-2.0.so.0.0.0 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32             30582 /usr/lib64/libatk-1.0.so.0.23609.1 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448258 /usr/lib64/libnspr4.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            449374 /usr/lib64/libsmime3.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            448264 /usr/lib64/libnssutil3.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            449373 /usr/lib64/libnss3.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171175 /usr/lib64/libgio-2.0.so.0.6800.4 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171177 /usr/lib64/libglib-2.0.so.0.6800.4 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            171181 /usr/lib64/libgobject-2.0.so.0.6800.4 (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            170606 /usr/lib64/librt-2.33.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            170602 /usr/lib64/libpthread-2.33.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            170590 /usr/lib64/libdl-2.33.so (path dev=0,34)
+github-de 64107 kostjaog  DEL       REG               0,24             30472 /dev/shm/.org.chromium.Chromium.b3eAnd
+github-de 64107 kostjaog  DEL       REG               0,24             30467 /dev/shm/.org.chromium.Chromium.evD2U3
+github-de 64107 kostjaog  DEL       REG               0,24             30464 /dev/shm/.org.chromium.Chromium.3rCstc
+github-de 64107 kostjaog  mem       REG               0,32            171156 /usr/lib64/gconv/gconv-modules.cache (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            284365 /usr/lib/github-desktop/libffmpeg.so (path dev=0,34)
+github-de 64107 kostjaog  mem       REG               0,32            170581 /usr/lib64/ld-2.33.so (path dev=0,34)
+github-de 64107 kostjaog    0r      CHR                1,3       0t0       4 /dev/null
+github-de 64107 kostjaog    1u     unix 0x0000000048790699       0t0 4831270 type=STREAM (CONNECTED)
+github-de 64107 kostjaog    2u     unix 0x0000000048790699       0t0 4831270 type=STREAM (CONNECTED)
+github-de 64107 kostjaog    3u     unix 0x00000000347f4a9f       0t0 4829606 type=SEQPACKET (CONNECTED)
+github-de 64107 kostjaog    4u     unix 0x000000001ad79658       0t0 4830279 type=SEQPACKET (CONNECTED)
+github-de 64107 kostjaog    5u     unix 0x000000005504da8a       0t0 4828734 type=STREAM (CONNECTED)
+github-de 64107 kostjaog    6u  a_inode               0,14         0   11736 [eventpoll:22]
+github-de 64107 kostjaog    7u  a_inode               0,14         0   11736 [eventpoll:10,12,52,93]
+github-de 64107 kostjaog    8r     FIFO               0,13       0t0 4828834 pipe
+github-de 64107 kostjaog    9w     FIFO               0,13       0t0 4828834 pipe
+github-de 64107 kostjaog   10r     FIFO               0,13       0t0 4828835 pipe
+github-de 64107 kostjaog   11w     FIFO               0,13       0t0 4828835 pipe
+github-de 64107 kostjaog   12u  a_inode               0,14         0   11736 [eventfd:496]
+github-de 64107 kostjaog   13u  a_inode               0,14         0   11736 [eventpoll:7]
+github-de 64107 kostjaog   14r      REG               0,34  10528096  284362 /usr/lib/github-desktop/icudtl.dat
+github-de 64107 kostjaog   15r      REG               0,34    172276  286032 /usr/lib/github-desktop/v8_context_snapshot.bin
+github-de 64107 kostjaog   16r      REG               0,34    124662  284359 /usr/lib/github-desktop/chrome_100_percent.pak
+github-de 64107 kostjaog   17r      REG               0,34    187289  284360 /usr/lib/github-desktop/chrome_200_percent.pak
+github-de 64107 kostjaog   18r      REG               0,34     83306  284379 /usr/lib/github-desktop/locales/en-US.pak
+github-de 64107 kostjaog   19r      REG               0,34   5035729  284423 /usr/lib/github-desktop/resources.pak
+github-de 64107 kostjaog   20u     unix 0x00000000a1c4e04d       0t0 4829611 type=STREAM (CONNECTED)
+github-de 64107 kostjaog   21u     unix 0x000000002e732be7       0t0 4829612 type=STREAM (CONNECTED)
+github-de 64107 kostjaog   22r     FIFO               0,13       0t0 4829613 pipe
+github-de 64107 kostjaog   23w     FIFO               0,13       0t0 4829613 pipe
+github-de 64107 kostjaog   24u     unix 0x0000000096843717       0t0 4822830 type=STREAM (CONNECTED)
+github-de 64107 kostjaog   25u  a_inode               0,14         0   11736 [eventpoll:24,28,40,50]
+github-de 64107 kostjaog   26u     unix 0x000000008080a108       0t0 4831283 type=STREAM (CONNECTED)
+github-de 64107 kostjaog   27u     unix 0x000000001171b79d       0t0 4831284 type=STREAM (CONNECTED)
+github-de 64107 kostjaog   28r     FIFO               0,13       0t0 4831285 pipe
+github-de 64107 kostjaog   29w     FIFO               0,13       0t0 4831285 pipe
+github-de 64107 kostjaog   30u      REG               0,24     65536   30475 /dev/shm/.org.chromium.Chromium.9tioth (deleted)
+github-de 64107 kostjaog   31r      REG               0,40    451603   11760 /home/kostjaog/.config/GitHub Desktop/Dictionaries/en-US-9-0.bdic
+github-de 64107 kostjaog   32u      REG               0,39    616912   42810 /tmp/.org.chromium.Chromium.rVWf6f (deleted)
+github-de 64107 kostjaog   33r      REG               0,22         0 4828838 /proc/64107/statm
+github-de 64107 kostjaog   34r      REG               0,22         0 4828836 /proc/64107/status
+github-de 64107 kostjaog   35u  a_inode               0,14         0   11736 [eventpoll]
+github-de 64107 kostjaog   36r     FIFO               0,13       0t0 4830313 pipe
+github-de 64107 kostjaog   37w     FIFO               0,13       0t0 4830313 pipe
+github-de 64107 kostjaog   38u  a_inode               0,14         0   11736 [eventfd:497]
+github-de 64107 kostjaog   39u      REG               0,24       144   30467 /dev/shm/.org.chromium.Chromium.evD2U3 (deleted)
+github-de 64107 kostjaog   40u     unix 0x00000000549f7f6e       0t0 4829616 type=STREAM (CONNECTED)
+github-de 64107 kostjaog   42u      REG               0,24       144   30472 /dev/shm/.org.chromium.Chromium.b3eAnd (deleted)
+github-de 64107 kostjaog   44u  a_inode               0,14         0   11736 [eventfd:499]
+github-de 64107 kostjaog   45u      REG               0,24     65536   30476 /dev/shm/.org.chromium.Chromium.r03Mzg (deleted)
+github-de 64107 kostjaog   46u  a_inode               0,14         0   11736 [eventfd:500]
+github-de 64107 kostjaog   47u  a_inode               0,14         0   11736 [eventfd:501]
+github-de 64107 kostjaog   48u     unix 0x00000000d55534d8       0t0 4827689 type=STREAM (CONNECTED)
+github-de 64107 kostjaog   49u  a_inode               0,14         0   11736 [eventfd:504]
+github-de 64107 kostjaog   50u     unix 0x00000000a2c76c89       0t0 4829628 type=STREAM (CONNECTED)
+github-de 64107 kostjaog   51r      CHR                1,3       0t0       4 /dev/null
+github-de 64107 kostjaog   52u     IPv4            4827690       0t0     TCP localhost:38741 (LISTEN)
+github-de 64107 kostjaog   54r      REG               0,34    103432   59738 /usr/share/fonts/cantarell/Cantarell-Light.otf
+github-de 64107 kostjaog   59u      REG               0,24   4198400  107335 /dev/shm/.org.chromium.Chromium.h7hE6Q (deleted)
+github-de 64107 kostjaog   62r      REG               0,34    100216   59739 /usr/share/fonts/cantarell/Cantarell-Regular.otf
+github-de 64107 kostjaog   65r      REG               0,34    103628   59736 /usr/share/fonts/cantarell/Cantarell-Bold.otf
+github-de 64107 kostjaog   67r      REG               0,34    410712  448783 /usr/share/fonts/liberation-sans/LiberationSans-Regular.ttf
+github-de 64107 kostjaog   68r      REG               0,34    319508  448774 /usr/share/fonts/liberation-mono/LiberationMono-Regular.ttf
+github-de 64107 kostjaog   69r      REG               0,34    340712   59754 /usr/share/fonts/dejavu-sans-mono-fonts/DejaVuSansMono.ttf
+github-de 64107 kostjaog   93r  a_inode               0,14         0   11736 inotify
+github-de 64107 kostjaog  103r      REG               0,34    172276  286032 /usr/lib/github-desktop/v8_context_snapshot.bin
+COMMAND    PID     USER   FD      TYPE             DEVICE  SIZE/OFF    NODE NAME
+java    145676 kostjaog  cwd       DIR               0,40       600     257 /home/kostjaog
+java    145676 kostjaog  rtd       DIR               0,34       184     256 /
+java    145676 kostjaog  txt       REG               0,40     12944 1496931 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/bin/java
+java    145676 kostjaog  mem       REG               0,32           1496931 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/bin/java (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485746 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-api-impldep-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485704 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/configurationScript/lib/configurationScript.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485689 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-webDeployment/lib/clion-webDeployment.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489364 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/vcs-changeReminder/lib/randomForestRegressor-0.0.11.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485747 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-launcher-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485745 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-api-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485749 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-tooling-extension-impl.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488803 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/svn4idea/lib/sqlite-jdbc-3.34.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488789 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/sass/lib/jrubyparser-0.5.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            448214 /usr/lib64/libnss_resolve.so.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31178 /usr/lib64/libnss_mdns4_minimal.so.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496265 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/libdbm64.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485750 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-wrapper-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485748 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-tooling-extension-api.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485738 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/git4idea/lib/git4idea-rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485426 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/nashorn-debugger-9-rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485427 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/nashorn-debugger-rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488779 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/python-ce/lib/ml-completion-prev-exprs-models-1.11.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488777 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/python-ce/lib/completion-ranking-python-0.2.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488778 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/python-ce/lib/libthrift-0.13.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489368 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/webDeployment/lib/commons-vfs2-2.2.2.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485392 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/CSS/lib/css-openapi.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485792 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-api-services-drive-v3-rev197-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485795 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-oauth-client-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485793 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-http-client-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485791 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-api-client-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485754 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/aho-corasick-double-array-trie-1.2.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485768 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/morfologik-fsa-builders-2.1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485770 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/morfologik-stemming-2.1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485769 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/morfologik-speller-2.1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485764 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/kotlinx-html-jvm-0.6.11.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485772 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/nlp-detector-jvm-0.0.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485766 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/languagetool-core-5.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485773 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/nlp-tokenizer-0.1.26.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485767 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/morfologik-fsa-2.1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485758 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/emoji-java-5.1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485756 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/commons-text-1.8.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485765 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/language-en-5.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485761 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/hunspell-1.1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485774 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/segment-2.0.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485762 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/indriya-1.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485755 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/bridj-0.7.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485760 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/hppc-0.8.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485757 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/dx-1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488810 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/axis-1.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488793 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/settings-repository/lib/jgit.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485796 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/j2objc-annotations-1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485776 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/uom-lib-common-1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485763 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/json-20170516.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485775 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/unit-api-1.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485416 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/IntelliLang/lib/java-langInjection-jps.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488813 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/commons-discovery-0.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485618 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptLanguage/lib/completion-ranking-typescript-0.2.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488811 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/axis-jaxrpc-1.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485617 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptLanguage/lib/completion-ranking-js-0.1.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488812 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/axis-saaj-1.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485619 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptLanguage/lib/semver4j-2.2.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488815 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/wsdl4j-1.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485723 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/projector-client-swing-1.0-202106112000.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485721 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/jnaerator-runtime-0.12.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485710 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/Java-WebSocket-1.4.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485720 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/idea-ultimate-build-dependencies.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485646 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-debugger-plugin/lib/antlr4-runtime-4.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496803 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/liblcms.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496820 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libsunec.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32             59739 /usr/share/fonts/cantarell/Cantarell-Regular.otf (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485771 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/nlp-common-0.1.26.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485722 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/jstun-0.7.5.20200723.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485724 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/quiche-jna-stubs-61.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485726 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/tls-channel-0.3.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485725 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/rd-text-0.212.307.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485806 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/performanceTesting/lib/byte-buddy-agent-1.10.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485808 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/performanceTesting/lib/yjp-controller-api-redist.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485403 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/maven-resolver-connector-basic-1.3.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485405 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/maven-resolver-transport-http-1.3.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485404 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/maven-resolver-transport-file-1.3.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485397 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/completion-ranking-sql-0.1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485717 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-unattended-common.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485712 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-host-unattended.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485423 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/FirefoxConnector.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485714 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-lobby-common.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485422 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/ChromeConnector.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485711 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-common.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485415 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/IntelliLang/lib/IntelliLang.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485419 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JSIntentionPowerPack/lib/JSIntentionPowerPack.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485424 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/JavaScriptDebugger.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485713 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-host.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            448213 /usr/lib64/libnss_myhostname.so.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485411 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/tips-database-plugin-212.78.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            170600 /usr/lib64/libnss_files-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485794 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-http-client-jackson2-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485719 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-unattended-util.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485718 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-unattended-ssh.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485616 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485715 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-plugin-terminal.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485412 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/unidecode-0.0.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485410 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/snowflake-1.17.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485622 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/PerforceIntegration/lib/PerforceIntegration.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485409 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/redshift-1.70.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485408 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/postgres-1.35.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485625 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/c-clangd/lib/c-clangd.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485628 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/c-clangdBridge/lib/c-clangdBridge.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485407 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/oracle-1.54.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485634 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/c-plugin/lib/c-plugin.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485637 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-base-plugin/lib/cidr-base-plugin.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485406 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/mssql-1.19.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485640 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-clangFormat/lib/cidr-clangFormat.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485647 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-debugger-plugin/lib/cidr-debugger-plugin.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485659 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-compdb/lib/clion-compdb.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485665 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-diagnostics/lib/clion-diagnostics.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485683 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-test-doctest/lib/clion-test-doctest.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485668 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-embedded/lib/clion-embedded.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485671 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-gradle/lib/clion-gradle.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485396 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/aether-dependency-resolver.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485400 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/database-minicats.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485674 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-makefile/lib/clion-makefile.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485677 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-test-boost/lib/clion-test-boost.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485662 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-ctest/lib/clion-ctest.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485398 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/database-dialects.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485401 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/database-openapi.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485686 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-test-google/lib/clion-test-google.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485650 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-grazie/lib/cidr-grazie.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485692 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion/lib/clion.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485695 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cloud-config/lib/cloud-config.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485698 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/coffeescript-core/lib/coffeescript-core.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485701 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/completionMlRanking/lib/completionMlRanking.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485399 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/database-impl.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485716 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-plugin.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485742 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/github/lib/github.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485707 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/copyright/lib/copyright.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485402 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/jdbc-console.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485739 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/git4idea/lib/git4idea.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485759 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/grazie.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485751 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485779 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/hg4idea/lib/hg4idea.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485782 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/htmltools/lib/htmltools.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485797 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/markdown.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485785 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/less/lib/less.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485788 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/makefile/lib/makefile.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485807 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/performanceTesting/lib/performanceTesting.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488780 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/python-ce/lib/python-ce.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485811 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/platform-images/lib/platform-images.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488783 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/remote-run/lib/remote-run.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488786 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/restClient/lib/restClient.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488797 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/sh/lib/sh.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488790 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/sass/lib/sass.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488794 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/settings-repository/lib/settings-repository.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488804 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/svn4idea/lib/svn4idea.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488814 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/tasks-core.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485393 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/CSS/lib/css.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496410 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/emojipicker/lib/emojipicker.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485680 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-test-catch/lib/clion-test-catch.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488800 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/stylus/lib/stylus.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489349 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/textmate/lib/textmate.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488822 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/terminal/lib/terminal.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489361 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/uml/lib/uml-support.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489358 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tslint/lib/tslint.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489377 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/yaml/lib/yaml.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489369 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/webDeployment/lib/webDeployment.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489365 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/vcs-changeReminder/lib/vcs-changeReminder.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489374 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/xpath/lib/xpath.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32              9112 /home/kostjaog/.cache/fontconfig/123d59b33ddb0e7c76bb24004bd5cfac-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488807 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks-time-tracking/lib/tasks-time-tracking.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178656 /usr/lib/fontconfig/cache/3f821257dd33660ba7bbb45c32deb84c-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178654 /usr/lib/fontconfig/cache/131ab5cc1583381c4f7ce0194912c56d-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178652 /usr/lib/fontconfig/cache/26078b1cf62d7535e9fc9c56a8803883-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178650 /usr/lib/fontconfig/cache/ac68f755438cc3dc5a526084839fc7ca-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178648 /usr/lib/fontconfig/cache/f951a6bc01c50d58ac4af16a0108457e-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178646 /usr/lib/fontconfig/cache/8cab66d8f642305e525ba3e322d0979c-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178644 /usr/lib/fontconfig/cache/6b4d77390f008fe4d7fb61c915674aee-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178642 /usr/lib/fontconfig/cache/bf4088b6c6290c8d6936483b844e6a40-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1339524 /home/kostjaog/.cache/fontconfig/6fcb01a03a016cc71057b587cdea6709-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178640 /usr/lib/fontconfig/cache/f132fa2327207a6ac3298c0518879731-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178636 /usr/lib/fontconfig/cache/b887eea8f1b96e1d899b44ed6681fc27-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178634 /usr/lib/fontconfig/cache/860639f272b8b4b3094f9e399e41bccd-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178632 /usr/lib/fontconfig/cache/5d33f04e74a97395cf88bbd83847f1f1-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178630 /usr/lib/fontconfig/cache/df893b4576ad6107f9397134092c4059-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1339522 /home/kostjaog/.cache/fontconfig/3e9ca894d7ccd8b9fedb236c4f3f7c4e-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1339520 /home/kostjaog/.cache/fontconfig/5535e07303e0edee0923e77e4e59b69c-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1339518 /home/kostjaog/.cache/fontconfig/cf759820c416606818fc74e5e9991313-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178602 /usr/lib/fontconfig/cache/8810ee51c158c7bfaed726592ffe4eb9-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32              9102 /home/kostjaog/.cache/fontconfig/7ee6df7a8311986241317a58487e0145-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32              9108 /home/kostjaog/.cache/fontconfig/47f48679023f44a4d1e44699a69464f6-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178628 /usr/lib/fontconfig/cache/900402270e15d763a6e008bb2d4c7686-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178612 /usr/lib/fontconfig/cache/e34b99a1e22e6f7451938fb9934274e6-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32              9104 /home/kostjaog/.cache/fontconfig/d63f98f14a274bd69a5425fc33aaac6b-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178598 /usr/lib/fontconfig/cache/6ee3103884cce7b2fe6f32eba9089175-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178592 /usr/lib/fontconfig/cache/7bbebb41f246c24642924bd8585d5345-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178588 /usr/lib/fontconfig/cache/221930ae9526a9cb8049af2916f03412-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178586 /usr/lib/fontconfig/cache/6ba42ae0000f58711b5caaf10d690066-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178584 /usr/lib/fontconfig/cache/210c0516121708a580e22e6b1f9a103a-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  DEL       REG                0,1            786433 /SYSV00000000
+java    145676 kostjaog  mem       REG               0,32             31194 /usr/lib64/libogg.so.0.8.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31517 /usr/lib64/libvorbis.so.0.4.9 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31077 /usr/lib64/libltdl.so.7.3.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31420 /usr/lib64/libtdb.so.1.4.3 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31519 /usr/lib64/libvorbisfile.so.3.3.8 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30659 /usr/lib64/libcanberra.so.0.2.5 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30658 /usr/lib64/libcanberra-gtk3.so.0.1.9 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178608 /usr/lib/fontconfig/cache/047de28567331e65817d0bda79107a40-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32              9100 /home/kostjaog/.cache/fontconfig/b3043b29744cf0a429678d296f5e4026-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178590 /usr/lib/fontconfig/cache/427eb62078a821f08aa6ed364f2467bf-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            254571 /usr/lib64/gtk-3.0/modules/libpk-gtk-module.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171779 /usr/lib64/gvfs/libgvfscommon.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171778 /usr/lib64/gio/modules/libgvfsdbus.so (path dev=0,34)
+java    145676 kostjaog  DEL       REG               0,32           1653207 /home/kostjaog/.cache/JetBrains/CLion2021.2/tmp/jna14316140236763869772.tmp
+java    145676 kostjaog  mem       REG               0,32            171183 /usr/lib64/libgthread-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30908 /usr/lib64/libgpg-error.so.0.32.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171892 /usr/lib64/libgcrypt.so.20.3.3 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30661 /usr/lib64/libcap.so.2.48 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31092 /usr/lib64/liblz4.so.1.9.3 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171459 /usr/lib64/libzstd.so.1.5.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31093 /usr/lib64/liblzma.so.5.2.5 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30724 /usr/lib64/libdatrie.so.1.4.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            448217 /usr/lib64/libsystemd.so.0.31.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171317 /usr/lib64/libxml2.so.2.9.12 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31429 /usr/lib64/libthai.so.0.3.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            254620 /usr/lib64/libatspi.so.0.0.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30729 /usr/lib64/libdbus-1.so.3.19.13 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            448297 /usr/lib64/libjpeg.so.62.3.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31567 /usr/lib64/libxcb-render.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31571 /usr/lib64/libxcb-shm.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31252 /usr/lib64/libpixman-1.so.0.40.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31531 /usr/lib64/libwayland-egl.so.1.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31530 /usr/lib64/libwayland-cursor.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171733 /usr/lib64/libxkbcommon.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178512 /usr/lib64/libfontconfig.so.1.12.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            221799 /usr/lib64/libpango-1.0.so.0.4800.10 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            221803 /usr/lib64/libpangoft2-1.0.so.0.4800.10 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30832 /usr/lib64/libfribidi.so.0.4.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171677 /usr/lib64/libepoxy.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30583 /usr/lib64/libatk-bridge-2.0.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30654 /usr/lib64/libcairo.so.2.11704.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            232877 /usr/lib64/libgdk-3.so.0.2404.26 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485656 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-markdown/lib/cidr-markdown.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485631 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/c-performanceTesting/lib/c-performanceTesting.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485643 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-copyright/lib/cidr-copyright.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485653 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-langInjection/lib/cidr-langInjection.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178624 /usr/lib/fontconfig/cache/2881ed3fd21ca306ddad6f9b0dd3189f-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30541 /usr/lib64/libXrandr.so.2.2.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31529 /usr/lib64/libwayland-client.so.0.3.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30582 /usr/lib64/libatk-1.0.so.0.23609.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171335 /usr/lib64/libgdk_pixbuf-2.0.so.0.4200.6 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30652 /usr/lib64/libcairo-gobject.so.2.11704.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            221801 /usr/lib64/libpangocairo-1.0.so.0.4800.10 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            173196 /usr/lib64/libcloudproviders.so.0.3.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            232879 /usr/lib64/libgtk-3.so.0.2404.26 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178622 /usr/lib/fontconfig/cache/3c3fb04d32a5211b073874b125d29701-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            431939 /usr/lib/fontconfig/cache/beeeeb3dfe132a8a0633a017c99ce0c0-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             33384 /usr/lib64/gtk-3.0/modules/libcanberra-gtk3-module.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496785 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libextnet.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496391 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-posix-3.0.50.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496389 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-enxio-0.21.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496388 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-constants-0.9.12.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496393 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-x86asm-1.0.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496387 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-a64asm-1.0.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496380 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-util-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496379 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-tree-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496377 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-analysis-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496376 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496385 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jffi-1.2.19-native.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496390 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-ffi-2.1.10.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485350 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/xmlbeans-4.0.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485346 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/tips-clion-212.27.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485338 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/pty4j.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485323 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlin-reflect-1.5.10-release-931.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485322 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/junixsocket-core.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178614 /usr/lib/fontconfig/cache/863140a4aaae38446c3fb212df9b1ab5-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496378 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-commons-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496386 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jffi-1.2.19.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496392 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-unixsocket-0.23.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496384 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/java-utils-1.0.6.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496383 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/dbus-java-3.2.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485347 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/trang-core.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485342 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/rngom-20051226-patched.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485321 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/junit5.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            221813 /usr/lib64/libXfixes.so.3.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30529 /usr/lib64/libXcursor.so.1.0.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178610 /usr/lib/fontconfig/cache/22f06f3be2d16d058da85b73ae1dc5b1-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485325 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlin-test.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485320 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/junit4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485317 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jna-platform.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485316 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jing-20030619.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485314 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/isorelax-20030108.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            168495 /usr/lib64/libgcc_s-11-20210728.so.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171762 /usr/lib64/gio/modules/libdconfsettings.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            496452 /usr/share/glib-2.0/schemas/gschemas.compiled (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485313 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/intellij-test-discovery-agent-1.0.589.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32             31239 /usr/lib64/libpcre2-8.so.0.10.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30624 /usr/lib64/libblkid.so.1.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            170604 /usr/lib64/libresolv-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31354 /usr/lib64/libselinux.so.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31115 /usr/lib64/libmount.so.1.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485312 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/intellij-coverage-agent-1.0.589.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            171181 /usr/lib64/libgobject-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171175 /usr/lib64/libgio-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485311 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/grpc-netty-shaded-1.34.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485310 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-xml-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485309 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-templates-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485307 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-json-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496806 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libmanagement_ext.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496804 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libmanagement.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485306 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485305 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/grazie-spellchecker-0.1.9.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485303 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/find-action-model-0.0.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32             31236 /usr/lib64/libpcre.so.1.2.12 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30641 /usr/lib64/libbrotlicommon.so.1.0.9 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171177 /usr/lib64/libglib-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30989 /usr/lib64/libharfbuzz.so.0.20704.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30831 /usr/lib64/libfreetype.so.6.17.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178604 /usr/lib/fontconfig/cache/b14e78aa9400ae7a28193faee1d62280-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30804 /usr/lib64/libffi.so.6.0.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496815 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libprefs.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496786 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libfontmanager.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485318 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jna.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            221780 /usr/lib64/libX11.so.6.4.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178596 /usr/lib/fontconfig/cache/cc4435afd06e20625c417ffcddec4f51-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30915 /usr/lib64/libgraphite2.so.3.2.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496782 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libawt_xawt.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485288 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/3rd-party.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178594 /usr/lib/fontconfig/cache/0f80fa86029ae75a63f21d682b864529-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30530 /usr/lib64/libXdamage.so.1.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485315 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/java-string-similarity-2.0.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32             30642 /usr/lib64/libbrotlidec.so.1.0.9 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31265 /usr/lib64/libpng16.so.16.37.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30647 /usr/lib64/libbz2.so.1.0.8 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31583 /usr/lib64/libxcb.so.1.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30536 /usr/lib64/libXi.so.6.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496780 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libawt.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485299 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/clion.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485326 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlinx-coroutines-jdk8.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485329 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/openapi.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485330 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-api.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485331 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-impl.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485348 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/util.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            232915 /usr/share/locale/en/LC_MESSAGES/gtk30.mo (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30528 /usr/lib64/libXcomposite.so.1.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485335 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-objectSerializer-annotations.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            448251 /etc/dconf/db/distro (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            448254 /etc/dconf/db/site (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30545 /usr/lib64/libXtst.so.6.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485296 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/byte-buddy-agent-1.10.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485294 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/async-profiler-2.1-ea-2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485349 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/winp-1.28.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485339 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/rd-core-0.212.307.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485337 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/protobuf-java-3.15.8.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485340 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/rd-framework-0.212.307.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485328 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlinx-serialization-json-jvm-1.1.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485327 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlinx-serialization-core-jvm-1.1.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485319 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jps-model.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            170323 /usr/lib/locale/locale-archive (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30537 /usr/lib64/libXinerama.so.1.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30542 /usr/lib64/libXrender.so.1.3.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30532 /usr/lib64/libXext.so.6.4.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1651111 /home/kostjaog/.config/dconf/user (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            171179 /usr/lib64/libgmodule-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485308 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-jsr223-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485344 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/stats.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            448253 /etc/dconf/db/local (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,62         2    1212 /run/user/1000/dconf/user
+java    145676 kostjaog  mem       REG               0,32             30527 /usr/lib64/libXau.so.6.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485293 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/annotations-java5.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485292 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/annotations-20.1.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485341 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/rd-swing-0.212.307.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485343 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/slf4j.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485336 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-statistics-devkit.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485324 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlin-stdlib-jdk8.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496811 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libnet.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496814 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libnio.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485300 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/coverage-common.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485301 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/error_prone_annotations-2.3.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485304 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/forms_rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485295 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/bootstrap.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496878 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/modules (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496823 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libzip.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            528427 /var/lib/sss/mc/passwd (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496798 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libjimage.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496793 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libjava.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496822 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libverify.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485302 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/external-system-rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,39     32768   47317 /tmp/hsperfdata_kostjaog/145676
+java    145676 kostjaog  mem       REG               0,32            170606 /usr/lib64/librt-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            170592 /usr/lib64/libm-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496889 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/server/libjvm.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            170588 /usr/lib64/libc-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            170590 /usr/lib64/libdl-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496774 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/jli/libjli.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            170602 /usr/lib64/libpthread-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31627 /usr/lib64/libz.so.1.2.11 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            202295 /usr/lib64/libnss_sss.so.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            170581 /usr/lib64/ld-2.33.so (path dev=0,34)
+java    145676 kostjaog    0r      CHR                1,3       0t0       4 /dev/null
+java    145676 kostjaog    1u     unix 0x00000000e191b734       0t0 5608088 type=STREAM (CONNECTED)
+java    145676 kostjaog    2u     unix 0x00000000e191b734       0t0 5608088 type=STREAM (CONNECTED)
+java    145676 kostjaog    3r      REG               0,34   9253600  528427 /var/lib/sss/mc/passwd
+java    145676 kostjaog    4r      REG               0,40  62999976 1496878 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/modules
+java    145676 kostjaog    5r      REG               0,40    123214 1485295 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/bootstrap.jar
+java    145676 kostjaog    6r      REG               0,40  32541269 1485348 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/util.jar
+java    145676 kostjaog    7r      REG               0,40  25299025 1485299 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/clion.jar
+java    145676 kostjaog    8u     unix 0x00000000d1cf000d       0t0 5611801 type=STREAM (CONNECTED)
+java    145676 kostjaog    9r      REG               0,34    227244   59859 /usr/share/fonts/paktype-naskh-basic/PakTypeNaskhBasic.ttf
+java    145676 kostjaog   10u     unix 0x00000000702032db       0t0 5608100 type=STREAM (CONNECTED)
+java    145676 kostjaog   11u      CHR              226,0       0t0     494 /dev/dri/card0
+java    145676 kostjaog   12r      CHR                1,8       0t0       8 /dev/random
+java    145676 kostjaog   13r      CHR                1,9       0t0       9 /dev/urandom
+java    145676 kostjaog   14w      REG               0,40    573352 1496981 /home/kostjaog/.cache/JetBrains/CLion2021.2/log/idea.log
+java    145676 kostjaog   15u     unix 0x000000008d5499cb       0t0 5611185 type=STREAM (CONNECTED)
+java    145676 kostjaog   16u  a_inode               0,14         0   11736 [eventfd:559]
+java    145676 kostjaog   17u  a_inode               0,14         0   11736 [eventfd:562]
+java    145676 kostjaog   18u  a_inode               0,14         0   11736 [eventfd:563]
+java    145676 kostjaog   19u     unix 0x00000000f3bd83fa       0t0 5610238 type=STREAM (CONNECTED)
+java    145676 kostjaog   20u  a_inode               0,14         0   11736 [eventpoll:23,32]
+java    145676 kostjaog   21u  a_inode               0,14         0   11736 [eventfd:564]
+java    145676 kostjaog   22u     unix 0x000000000bbb8f5b       0t0 5608101 type=STREAM (CONNECTED)
+java    145676 kostjaog   23r     FIFO               0,13       0t0 5611805 pipe
+java    145676 kostjaog   24w     FIFO               0,13       0t0 5611805 pipe
+java    145676 kostjaog   25u  a_inode               0,14         0   11736 [eventpoll:26,42]
+java    145676 kostjaog   26r     FIFO               0,13       0t0 5611806 pipe
+java    145676 kostjaog   27w     FIFO               0,13       0t0 5611806 pipe
+java    145676 kostjaog   28u  a_inode               0,14         0   11736 [eventpoll:29]
+java    145676 kostjaog   29r     FIFO               0,13       0t0 5611807 pipe
+java    145676 kostjaog   30w     FIFO               0,13       0t0 5611807 pipe
+java    145676 kostjaog   31r     FIFO               0,13       0t0 5615660 pipe
+java    145676 kostjaog   32u     IPv6            5610243       0t0     TCP localhost:6942 (LISTEN)
+java    145676 kostjaog   33w     FIFO               0,13       0t0 5615660 pipe
+java    145676 kostjaog   34u     unix 0x00000000202b900c       0t0 5608104 type=STREAM (CONNECTED)
+java    145676 kostjaog   35u     unix 0x0000000000054f73       0t0 5614861 type=STREAM (CONNECTED)
+java    145676 kostjaog   36u     unix 0x00000000c5b46f31       0t0 5614864 type=STREAM (CONNECTED)
+java    145676 kostjaog   37u  a_inode               0,14         0   11736 [eventfd:568]
+java    145676 kostjaog   38r      REG               0,40   8773632 1496263 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/icons.db
+java    145676 kostjaog   39r      REG               0,34    265624   59829 /usr/share/fonts/khmer-os-system-fonts/KhmerOS_sys.ttf
+java    145676 kostjaog   40r      REG               0,34     85820   59855 /usr/share/fonts/lohit-odia/Lohit-Odia.ttf
+java    145676 kostjaog   41r      REG               0,34    340712   59754 /usr/share/fonts/dejavu-sans-mono-fonts/DejaVuSansMono.ttf
+java    145676 kostjaog   42u     IPv6            5610244       0t0     TCP localhost:63342 (LISTEN)
+java    145676 kostjaog   43u      REG               0,40     28672 1497148 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex.storage
+java    145676 kostjaog   44r      REG               0,34  19981104   59790 /usr/share/fonts/google-noto-cjk/NotoSansCJK-Regular.ttc
+java    145676 kostjaog   45u      REG               0,40       174 1498298 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/idindex/IdIndex.storage.values.s
+java    145676 kostjaog   46r      REG               0,40 170702589 1485331 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-impl.jar
+java    145676 kostjaog   47r      REG               0,34    581048   59871 /usr/share/fonts/sil-abyssinica-fonts/AbyssinicaSIL-R.ttf
+java    145676 kostjaog   48r      REG               0,34   2269108   59800 /usr/share/fonts/jomolhari-fonts/Jomolhari-alpha3c-0605331.ttf
+java    145676 kostjaog   49r      REG               0,34  10845568   59792 /usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf
+java    145676 kostjaog   50r      REG               0,34    170576   59741 /usr/share/fonts/cantarell/Cantarell-VF.otf
+java    145676 kostjaog   51r      REG               0,34    103628   59736 /usr/share/fonts/cantarell/Cantarell-Bold.otf
+java    145676 kostjaog   52r      REG               0,40    171876 1496758 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/fonts/JetBrainsMono-Regular.ttf
+java    145676 kostjaog   53u      REG               0,40        96 1498076 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/.persistent/idindex/values.values.s
+java    145676 kostjaog   54u      REG               0,40       225 1498064 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/.persistent/trigram.index/values.values.s
+java    145676 kostjaog   55r      REG               0,40    147796 1496746 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/fonts/JetBrainsMono-Bold-Italic.ttf
+java    145676 kostjaog   56u      REG               0,40    155648 1497002 /home/kostjaog/.cache/JetBrains/CLion2021.2/icons-v3.db
+java    145676 kostjaog   58r      REG               0,34    207992  475923 /usr/share/fonts/opensymbol/opens___.ttf
+java    145676 kostjaog   59r      REG               0,34   2440452   59764 /usr/share/fonts/gdouros-symbola/Symbola.ttf
+java    145676 kostjaog   60u      REG               0,40     67992 1497126 /home/kostjaog/.cache/JetBrains/CLion2021.2/caches/attrib.dat.storageRecordIndex
+java    145676 kostjaog   61u      REG               0,40  43082273 1497127 /home/kostjaog/.cache/JetBrains/CLion2021.2/caches/attrib.dat.storageData
+java    145676 kostjaog   62u      REG               0,40      8008 1497128 /home/kostjaog/.cache/JetBrains/CLion2021.2/caches/content.dat.storageRecordIndex
+java    145676 kostjaog   63u      REG               0,40   1185932 1497129 /home/kostjaog/.cache/JetBrains/CLion2021.2/caches/content.dat.storageData
+java    145676 kostjaog   64r      REG               0,34    577608   59755 /usr/share/fonts/dejavu-serif-fonts/DejaVuMathTeXGyre.ttf
+java    145676 kostjaog   65u      REG               0,40      5568 1497141 /home/kostjaog/.cache/JetBrains/CLion2021.2/LocalHistory/changes.storageRecordIndex
+java    145676 kostjaog   66u      REG               0,40      4096 1497153 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex_inputs
+java    145676 kostjaog   67u      REG               0,40     32008 1497142 /home/kostjaog/.cache/JetBrains/CLion2021.2/LocalHistory/changes.storageData
+java    145676 kostjaog   68u  a_inode               0,14         0   11736 [eventfd:575]
+java    145676 kostjaog   69u  a_inode               0,14         0   11736 [eventpoll:82]
+java    145676 kostjaog   70r      REG               0,40   6281390 1485765 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/language-en-5.4.jar
+java    145676 kostjaog   71u      REG               0,40     28672 1497400 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage
+java    145676 kostjaog   72w     FIFO               0,13       0t0 5611197 pipe
+java    145676 kostjaog   73r     FIFO               0,13       0t0 5611198 pipe
+java    145676 kostjaog   74u      REG               0,40      4096 1497404 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex_inputs
+java    145676 kostjaog   75r     FIFO               0,13       0t0 5611199 pipe
+java    145676 kostjaog   76u      REG               0,40      4096 1497517 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/py.module.name/Py.module.name.storage
+java    145676 kostjaog   77u      REG               0,40      4096 1497521 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/py.module.name/Py.module.name_inputs
+java    145676 kostjaog   78u      REG               0,40     12288 1627199 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filetypes/filetypes.log.index.project
+java    145676 kostjaog   79r      REG               0,34    380132   59759 /usr/share/fonts/dejavu-serif-fonts/DejaVuSerif.ttf
+java    145676 kostjaog   80w     FIFO               0,13       0t0 5615391 pipe
+java    145676 kostjaog   81r     FIFO               0,13       0t0 5615392 pipe
+java    145676 kostjaog   82r     FIFO               0,13       0t0 5611888 pipe
+java    145676 kostjaog   83r      REG               0,40    173264 1496747 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/fonts/JetBrainsMono-Bold.ttf
+java    145676 kostjaog   84w     FIFO               0,13       0t0 5611888 pipe
+java    145676 kostjaog   85u  a_inode               0,14         0   11736 [eventpoll:86]
+java    145676 kostjaog   86r     FIFO               0,13       0t0 5611889 pipe
+java    145676 kostjaog   87w     FIFO               0,13       0t0 5611889 pipe
+java    145676 kostjaog   88u  a_inode               0,14         0   11736 [eventpoll:89]
+java    145676 kostjaog   89r     FIFO               0,13       0t0 5611890 pipe
+java    145676 kostjaog   90w     FIFO               0,13       0t0 5611890 pipe
+java    145676 kostjaog   91u  a_inode               0,14         0   11736 [eventpoll:92]
+java    145676 kostjaog   92r     FIFO               0,13       0t0 5611891 pipe
+java    145676 kostjaog   93w     FIFO               0,13       0t0 5611891 pipe
+java    145676 kostjaog   94u  a_inode               0,14         0   11736 [eventpoll:95]
+java    145676 kostjaog   95r     FIFO               0,13       0t0 5611892 pipe
+java    145676 kostjaog   96w     FIFO               0,13       0t0 5611892 pipe
+java    145676 kostjaog   97u  a_inode               0,14         0   11736 [eventpoll:98]
+java    145676 kostjaog   98r     FIFO               0,13       0t0 5611893 pipe
+java    145676 kostjaog   99w     FIFO               0,13       0t0 5611893 pipe
+java    145676 kostjaog  100u  a_inode               0,14         0   11736 [eventpoll:101]
+java    145676 kostjaog  101r     FIFO               0,13       0t0 5611894 pipe
+java    145676 kostjaog  102w     FIFO               0,13       0t0 5611894 pipe
+java    145676 kostjaog  103u  a_inode               0,14         0   11736 [eventpoll:104]
+java    145676 kostjaog  104r     FIFO               0,13       0t0 5611895 pipe
+java    145676 kostjaog  105w     FIFO               0,13       0t0 5611895 pipe
+java    145676 kostjaog  106u  a_inode               0,14         0   11736 [eventpoll:107]
+java    145676 kostjaog  107r     FIFO               0,13       0t0 5611896 pipe
+java    145676 kostjaog  108w     FIFO               0,13       0t0 5611896 pipe
+java    145676 kostjaog  109u  a_inode               0,14         0   11736 [eventpoll:110]
+java    145676 kostjaog  110r     FIFO               0,13       0t0 5611897 pipe
+java    145676 kostjaog  111w     FIFO               0,13       0t0 5611897 pipe
+java    145676 kostjaog  112u  a_inode               0,14         0   11736 [eventpoll:113]
+java    145676 kostjaog  113r     FIFO               0,13       0t0 5611898 pipe
+java    145676 kostjaog  114w     FIFO               0,13       0t0 5611898 pipe
+java    145676 kostjaog  115u  a_inode               0,14         0   11736 [eventpoll:116]
+java    145676 kostjaog  116r     FIFO               0,13       0t0 5611899 pipe
+java    145676 kostjaog  117w     FIFO               0,13       0t0 5611899 pipe
+java    145676 kostjaog  118u  a_inode               0,14         0   11736 [eventpoll:119]
+java    145676 kostjaog  119r     FIFO               0,13       0t0 5611900 pipe
+java    145676 kostjaog  120w     FIFO               0,13       0t0 5611900 pipe
+java    145676 kostjaog  121u  a_inode               0,14         0   11736 [eventpoll:122]
+java    145676 kostjaog  122r     FIFO               0,13       0t0 5611901 pipe
+java    145676 kostjaog  123w     FIFO               0,13       0t0 5611901 pipe
+java    145676 kostjaog  124u  a_inode               0,14         0   11736 [eventpoll:125]
+java    145676 kostjaog  125r     FIFO               0,13       0t0 5611902 pipe
+java    145676 kostjaog  126w     FIFO               0,13       0t0 5611902 pipe
+java    145676 kostjaog  127u  a_inode               0,14         0   11736 [eventpoll:128]
+java    145676 kostjaog  128r     FIFO               0,13       0t0 5611903 pipe
+java    145676 kostjaog  129w     FIFO               0,13       0t0 5611903 pipe
+java    145676 kostjaog  130u      REG               0,40    806585 1498075 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/.persistent/idindex/values.values
+java    145676 kostjaog  131u      REG               0,40   1880734 1498063 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/.persistent/trigram.index/values.values
+java    145676 kostjaog  132u      REG               0,40   2407234 1498282 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/trigram.index/Trigram.Index.storage.values
+java    145676 kostjaog  133u      REG               0,40       369 1498283 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/trigram.index/Trigram.Index.storage.values.s
+java    145676 kostjaog  134u      REG               0,40   1265923 1498297 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/idindex/IdIndex.storage.values
+java    145676 kostjaog  135u      REG               0,40     36864 1498290 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex.storage.keystream
+java    145676 kostjaog  136u      REG               0,40     32768 1498383 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage_i
+java    145676 kostjaog  137u      REG               0,40     36864 1498384 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage.keystream
+java    145676 kostjaog  138r      REG               0,34     52760  256524 /usr/share/fonts/google-noto/NotoSansGurmukhi-Regular.ttf
+java    145676 kostjaog  139r      REG               0,34    358248  256539 /usr/share/fonts/google-noto-vf/NotoSansSinhala-VF.ttf
+java    145676 kostjaog  141r      REG               0,34    757076   59746 /usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf
+java    145676 kostjaog  142r     FIFO               0,13       0t0 5615393 pipe
+java    145676 kostjaog  291u      REG               0,40     32768 1498048 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex_inputs_i
+java    145676 kostjaog  292u      REG               0,40     32768 1498049 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex_inputs_i
+java    145676 kostjaog  293u      REG               0,40     32768 1498289 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex.storage_i
+COMMAND    PID     USER   FD      TYPE             DEVICE  SIZE/OFF    NODE NAME
+java    145676 kostjaog  cwd       DIR               0,40       600     257 /home/kostjaog
+java    145676 kostjaog  rtd       DIR               0,34       184     256 /
+java    145676 kostjaog  txt       REG               0,40     12944 1496931 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/bin/java
+java    145676 kostjaog  mem       REG               0,32           1496931 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/bin/java (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485746 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-api-impldep-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485704 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/configurationScript/lib/configurationScript.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485689 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-webDeployment/lib/clion-webDeployment.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489364 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/vcs-changeReminder/lib/randomForestRegressor-0.0.11.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485747 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-launcher-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485745 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-api-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485749 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-tooling-extension-impl.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488803 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/svn4idea/lib/sqlite-jdbc-3.34.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488789 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/sass/lib/jrubyparser-0.5.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            448214 /usr/lib64/libnss_resolve.so.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31178 /usr/lib64/libnss_mdns4_minimal.so.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496265 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/libdbm64.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485750 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-wrapper-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485748 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle-tooling-extension-api.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485738 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/git4idea/lib/git4idea-rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485426 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/nashorn-debugger-9-rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485427 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/nashorn-debugger-rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488779 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/python-ce/lib/ml-completion-prev-exprs-models-1.11.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488777 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/python-ce/lib/completion-ranking-python-0.2.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488778 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/python-ce/lib/libthrift-0.13.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489368 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/webDeployment/lib/commons-vfs2-2.2.2.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485392 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/CSS/lib/css-openapi.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485792 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-api-services-drive-v3-rev197-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485795 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-oauth-client-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485793 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-http-client-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485791 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-api-client-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485754 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/aho-corasick-double-array-trie-1.2.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485768 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/morfologik-fsa-builders-2.1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485770 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/morfologik-stemming-2.1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485769 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/morfologik-speller-2.1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485764 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/kotlinx-html-jvm-0.6.11.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485772 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/nlp-detector-jvm-0.0.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485766 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/languagetool-core-5.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485773 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/nlp-tokenizer-0.1.26.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485767 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/morfologik-fsa-2.1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485758 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/emoji-java-5.1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485756 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/commons-text-1.8.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485765 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/language-en-5.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485761 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/hunspell-1.1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485774 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/segment-2.0.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485762 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/indriya-1.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485755 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/bridj-0.7.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485760 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/hppc-0.8.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485757 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/dx-1.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488810 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/axis-1.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488793 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/settings-repository/lib/jgit.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485796 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/j2objc-annotations-1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485776 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/uom-lib-common-1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485763 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/json-20170516.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485775 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/unit-api-1.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485416 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/IntelliLang/lib/java-langInjection-jps.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488813 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/commons-discovery-0.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485618 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptLanguage/lib/completion-ranking-typescript-0.2.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488811 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/axis-jaxrpc-1.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485617 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptLanguage/lib/completion-ranking-js-0.1.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488812 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/axis-saaj-1.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485619 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptLanguage/lib/semver4j-2.2.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488815 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/wsdl4j-1.4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485723 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/projector-client-swing-1.0-202106112000.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485721 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/jnaerator-runtime-0.12.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485710 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/Java-WebSocket-1.4.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485720 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/idea-ultimate-build-dependencies.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485646 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-debugger-plugin/lib/antlr4-runtime-4.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496803 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/liblcms.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496820 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libsunec.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32             59739 /usr/share/fonts/cantarell/Cantarell-Regular.otf (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485771 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/nlp-common-0.1.26.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485722 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/jstun-0.7.5.20200723.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485724 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/quiche-jna-stubs-61.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485726 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/tls-channel-0.3.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485725 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/rd-text-0.212.307.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485806 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/performanceTesting/lib/byte-buddy-agent-1.10.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485808 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/performanceTesting/lib/yjp-controller-api-redist.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485403 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/maven-resolver-connector-basic-1.3.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485405 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/maven-resolver-transport-http-1.3.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485404 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/maven-resolver-transport-file-1.3.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485397 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/completion-ranking-sql-0.1.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485717 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-unattended-common.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485712 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-host-unattended.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485423 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/FirefoxConnector.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485714 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-lobby-common.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485422 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/ChromeConnector.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485711 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-common.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485415 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/IntelliLang/lib/IntelliLang.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485419 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JSIntentionPowerPack/lib/JSIntentionPowerPack.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485424 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptDebugger/lib/JavaScriptDebugger.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485713 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-host.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            448213 /usr/lib64/libnss_myhostname.so.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485411 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/tips-database-plugin-212.78.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            170600 /usr/lib64/libnss_files-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485794 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/google-http-client-jackson2-1.25.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485719 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-unattended-util.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485718 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-unattended-ssh.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485616 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485715 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-plugin-terminal.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485412 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/unidecode-0.0.7.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485410 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/snowflake-1.17.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485622 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/PerforceIntegration/lib/PerforceIntegration.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485409 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/redshift-1.70.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485408 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/postgres-1.35.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485625 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/c-clangd/lib/c-clangd.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485628 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/c-clangdBridge/lib/c-clangdBridge.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485407 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/oracle-1.54.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485634 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/c-plugin/lib/c-plugin.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485637 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-base-plugin/lib/cidr-base-plugin.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485406 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/mssql-1.19.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485640 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-clangFormat/lib/cidr-clangFormat.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485647 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-debugger-plugin/lib/cidr-debugger-plugin.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485659 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-compdb/lib/clion-compdb.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485665 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-diagnostics/lib/clion-diagnostics.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485683 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-test-doctest/lib/clion-test-doctest.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485668 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-embedded/lib/clion-embedded.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485671 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-gradle/lib/clion-gradle.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485396 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/aether-dependency-resolver.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485400 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/database-minicats.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485674 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-makefile/lib/clion-makefile.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485677 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-test-boost/lib/clion-test-boost.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485662 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-ctest/lib/clion-ctest.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485398 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/database-dialects.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485401 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/database-openapi.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485686 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-test-google/lib/clion-test-google.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485650 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-grazie/lib/cidr-grazie.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485692 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion/lib/clion.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485695 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cloud-config/lib/cloud-config.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485698 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/coffeescript-core/lib/coffeescript-core.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485701 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/completionMlRanking/lib/completionMlRanking.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485399 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/database-impl.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485716 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cwm-plugin/lib/cwm-plugin.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485742 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/github/lib/github.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485707 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/copyright/lib/copyright.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485402 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/DatabaseTools/lib/jdbc-console.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485739 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/git4idea/lib/git4idea.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485759 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/grazie.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485751 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/gradle/lib/gradle.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485779 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/hg4idea/lib/hg4idea.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485782 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/htmltools/lib/htmltools.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485797 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/markdown/lib/markdown.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485785 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/less/lib/less.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485788 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/makefile/lib/makefile.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485807 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/performanceTesting/lib/performanceTesting.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488780 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/python-ce/lib/python-ce.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485811 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/platform-images/lib/platform-images.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488783 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/remote-run/lib/remote-run.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488786 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/restClient/lib/restClient.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488797 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/sh/lib/sh.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488790 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/sass/lib/sass.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488794 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/settings-repository/lib/settings-repository.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488804 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/svn4idea/lib/svn4idea.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488814 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks/lib/tasks-core.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485393 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/CSS/lib/css.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496410 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/emojipicker/lib/emojipicker.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485680 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/clion-test-catch/lib/clion-test-catch.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488800 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/stylus/lib/stylus.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489349 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/textmate/lib/textmate.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488822 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/terminal/lib/terminal.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489361 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/uml/lib/uml-support.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489358 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tslint/lib/tslint.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489377 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/yaml/lib/yaml.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489369 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/webDeployment/lib/webDeployment.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489365 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/vcs-changeReminder/lib/vcs-changeReminder.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1489374 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/xpath/lib/xpath.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32              9112 /home/kostjaog/.cache/fontconfig/123d59b33ddb0e7c76bb24004bd5cfac-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1488807 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/tasks-time-tracking/lib/tasks-time-tracking.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178656 /usr/lib/fontconfig/cache/3f821257dd33660ba7bbb45c32deb84c-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178654 /usr/lib/fontconfig/cache/131ab5cc1583381c4f7ce0194912c56d-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178652 /usr/lib/fontconfig/cache/26078b1cf62d7535e9fc9c56a8803883-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178650 /usr/lib/fontconfig/cache/ac68f755438cc3dc5a526084839fc7ca-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178648 /usr/lib/fontconfig/cache/f951a6bc01c50d58ac4af16a0108457e-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178646 /usr/lib/fontconfig/cache/8cab66d8f642305e525ba3e322d0979c-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178644 /usr/lib/fontconfig/cache/6b4d77390f008fe4d7fb61c915674aee-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178642 /usr/lib/fontconfig/cache/bf4088b6c6290c8d6936483b844e6a40-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1339524 /home/kostjaog/.cache/fontconfig/6fcb01a03a016cc71057b587cdea6709-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178640 /usr/lib/fontconfig/cache/f132fa2327207a6ac3298c0518879731-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178636 /usr/lib/fontconfig/cache/b887eea8f1b96e1d899b44ed6681fc27-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178634 /usr/lib/fontconfig/cache/860639f272b8b4b3094f9e399e41bccd-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178632 /usr/lib/fontconfig/cache/5d33f04e74a97395cf88bbd83847f1f1-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178630 /usr/lib/fontconfig/cache/df893b4576ad6107f9397134092c4059-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1339522 /home/kostjaog/.cache/fontconfig/3e9ca894d7ccd8b9fedb236c4f3f7c4e-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1339520 /home/kostjaog/.cache/fontconfig/5535e07303e0edee0923e77e4e59b69c-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1339518 /home/kostjaog/.cache/fontconfig/cf759820c416606818fc74e5e9991313-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178602 /usr/lib/fontconfig/cache/8810ee51c158c7bfaed726592ffe4eb9-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32              9102 /home/kostjaog/.cache/fontconfig/7ee6df7a8311986241317a58487e0145-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32              9108 /home/kostjaog/.cache/fontconfig/47f48679023f44a4d1e44699a69464f6-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178628 /usr/lib/fontconfig/cache/900402270e15d763a6e008bb2d4c7686-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178612 /usr/lib/fontconfig/cache/e34b99a1e22e6f7451938fb9934274e6-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32              9104 /home/kostjaog/.cache/fontconfig/d63f98f14a274bd69a5425fc33aaac6b-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178598 /usr/lib/fontconfig/cache/6ee3103884cce7b2fe6f32eba9089175-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178592 /usr/lib/fontconfig/cache/7bbebb41f246c24642924bd8585d5345-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178588 /usr/lib/fontconfig/cache/221930ae9526a9cb8049af2916f03412-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178586 /usr/lib/fontconfig/cache/6ba42ae0000f58711b5caaf10d690066-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178584 /usr/lib/fontconfig/cache/210c0516121708a580e22e6b1f9a103a-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  DEL       REG                0,1            786433 /SYSV00000000
+java    145676 kostjaog  mem       REG               0,32             31194 /usr/lib64/libogg.so.0.8.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31517 /usr/lib64/libvorbis.so.0.4.9 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31077 /usr/lib64/libltdl.so.7.3.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31420 /usr/lib64/libtdb.so.1.4.3 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31519 /usr/lib64/libvorbisfile.so.3.3.8 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30659 /usr/lib64/libcanberra.so.0.2.5 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30658 /usr/lib64/libcanberra-gtk3.so.0.1.9 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178608 /usr/lib/fontconfig/cache/047de28567331e65817d0bda79107a40-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32              9100 /home/kostjaog/.cache/fontconfig/b3043b29744cf0a429678d296f5e4026-le64.cache-7 (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178590 /usr/lib/fontconfig/cache/427eb62078a821f08aa6ed364f2467bf-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            254571 /usr/lib64/gtk-3.0/modules/libpk-gtk-module.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171779 /usr/lib64/gvfs/libgvfscommon.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171778 /usr/lib64/gio/modules/libgvfsdbus.so (path dev=0,34)
+java    145676 kostjaog  DEL       REG               0,32           1653207 /home/kostjaog/.cache/JetBrains/CLion2021.2/tmp/jna14316140236763869772.tmp
+java    145676 kostjaog  mem       REG               0,32            171183 /usr/lib64/libgthread-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30908 /usr/lib64/libgpg-error.so.0.32.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171892 /usr/lib64/libgcrypt.so.20.3.3 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30661 /usr/lib64/libcap.so.2.48 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31092 /usr/lib64/liblz4.so.1.9.3 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171459 /usr/lib64/libzstd.so.1.5.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31093 /usr/lib64/liblzma.so.5.2.5 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30724 /usr/lib64/libdatrie.so.1.4.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            448217 /usr/lib64/libsystemd.so.0.31.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171317 /usr/lib64/libxml2.so.2.9.12 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31429 /usr/lib64/libthai.so.0.3.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            254620 /usr/lib64/libatspi.so.0.0.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30729 /usr/lib64/libdbus-1.so.3.19.13 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            448297 /usr/lib64/libjpeg.so.62.3.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31567 /usr/lib64/libxcb-render.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31571 /usr/lib64/libxcb-shm.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31252 /usr/lib64/libpixman-1.so.0.40.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31531 /usr/lib64/libwayland-egl.so.1.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31530 /usr/lib64/libwayland-cursor.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171733 /usr/lib64/libxkbcommon.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178512 /usr/lib64/libfontconfig.so.1.12.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            221799 /usr/lib64/libpango-1.0.so.0.4800.10 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            221803 /usr/lib64/libpangoft2-1.0.so.0.4800.10 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30832 /usr/lib64/libfribidi.so.0.4.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171677 /usr/lib64/libepoxy.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30583 /usr/lib64/libatk-bridge-2.0.so.0.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30654 /usr/lib64/libcairo.so.2.11704.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            232877 /usr/lib64/libgdk-3.so.0.2404.26 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485656 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-markdown/lib/cidr-markdown.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485631 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/c-performanceTesting/lib/c-performanceTesting.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485643 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-copyright/lib/cidr-copyright.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485653 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/cidr-langInjection/lib/cidr-langInjection.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178624 /usr/lib/fontconfig/cache/2881ed3fd21ca306ddad6f9b0dd3189f-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30541 /usr/lib64/libXrandr.so.2.2.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31529 /usr/lib64/libwayland-client.so.0.3.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30582 /usr/lib64/libatk-1.0.so.0.23609.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171335 /usr/lib64/libgdk_pixbuf-2.0.so.0.4200.6 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30652 /usr/lib64/libcairo-gobject.so.2.11704.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            221801 /usr/lib64/libpangocairo-1.0.so.0.4800.10 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            173196 /usr/lib64/libcloudproviders.so.0.3.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            232879 /usr/lib64/libgtk-3.so.0.2404.26 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178622 /usr/lib/fontconfig/cache/3c3fb04d32a5211b073874b125d29701-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            431939 /usr/lib/fontconfig/cache/beeeeb3dfe132a8a0633a017c99ce0c0-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             33384 /usr/lib64/gtk-3.0/modules/libcanberra-gtk3-module.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496785 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libextnet.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496391 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-posix-3.0.50.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496389 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-enxio-0.21.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496388 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-constants-0.9.12.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496393 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-x86asm-1.0.2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496387 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-a64asm-1.0.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496380 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-util-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496379 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-tree-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496377 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-analysis-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496376 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496385 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jffi-1.2.19-native.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496390 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-ffi-2.1.10.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485350 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/xmlbeans-4.0.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485346 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/tips-clion-212.27.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485338 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/pty4j.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485323 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlin-reflect-1.5.10-release-931.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485322 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/junixsocket-core.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178614 /usr/lib/fontconfig/cache/863140a4aaae38446c3fb212df9b1ab5-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496378 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/asm-commons-7.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496386 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jffi-1.2.19.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496392 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jnr-unixsocket-0.23.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496384 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/java-utils-1.0.6.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496383 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/dbus-java-3.2.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485347 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/trang-core.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485342 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/rngom-20051226-patched.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485321 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/junit5.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            221813 /usr/lib64/libXfixes.so.3.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30529 /usr/lib64/libXcursor.so.1.0.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178610 /usr/lib/fontconfig/cache/22f06f3be2d16d058da85b73ae1dc5b1-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485325 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlin-test.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485320 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/junit4.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485317 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jna-platform.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485316 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jing-20030619.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485314 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/isorelax-20030108.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            168495 /usr/lib64/libgcc_s-11-20210728.so.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171762 /usr/lib64/gio/modules/libdconfsettings.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            496452 /usr/share/glib-2.0/schemas/gschemas.compiled (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485313 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/intellij-test-discovery-agent-1.0.589.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32             31239 /usr/lib64/libpcre2-8.so.0.10.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30624 /usr/lib64/libblkid.so.1.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            170604 /usr/lib64/libresolv-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31354 /usr/lib64/libselinux.so.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31115 /usr/lib64/libmount.so.1.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485312 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/intellij-coverage-agent-1.0.589.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            171181 /usr/lib64/libgobject-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171175 /usr/lib64/libgio-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485311 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/grpc-netty-shaded-1.34.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485310 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-xml-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485309 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-templates-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485307 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-json-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496806 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libmanagement_ext.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496804 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libmanagement.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485306 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485305 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/grazie-spellchecker-0.1.9.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485303 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/find-action-model-0.0.3.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32             31236 /usr/lib64/libpcre.so.1.2.12 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30641 /usr/lib64/libbrotlicommon.so.1.0.9 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            171177 /usr/lib64/libglib-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30989 /usr/lib64/libharfbuzz.so.0.20704.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30831 /usr/lib64/libfreetype.so.6.17.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178604 /usr/lib/fontconfig/cache/b14e78aa9400ae7a28193faee1d62280-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30804 /usr/lib64/libffi.so.6.0.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496815 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libprefs.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496786 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libfontmanager.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485318 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jna.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            221780 /usr/lib64/libX11.so.6.4.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            178596 /usr/lib/fontconfig/cache/cc4435afd06e20625c417ffcddec4f51-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30915 /usr/lib64/libgraphite2.so.3.2.1 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496782 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libawt_xawt.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485288 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/3rd-party.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            178594 /usr/lib/fontconfig/cache/0f80fa86029ae75a63f21d682b864529-le64.cache-7 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30530 /usr/lib64/libXdamage.so.1.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485315 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/java-string-similarity-2.0.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32             30642 /usr/lib64/libbrotlidec.so.1.0.9 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31265 /usr/lib64/libpng16.so.16.37.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30647 /usr/lib64/libbz2.so.1.0.8 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31583 /usr/lib64/libxcb.so.1.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30536 /usr/lib64/libXi.so.6.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496780 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libawt.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485299 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/clion.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485326 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlinx-coroutines-jdk8.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485329 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/openapi.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485330 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-api.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485331 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-impl.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485348 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/util.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            232915 /usr/share/locale/en/LC_MESSAGES/gtk30.mo (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30528 /usr/lib64/libXcomposite.so.1.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485335 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-objectSerializer-annotations.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            448251 /etc/dconf/db/distro (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            448254 /etc/dconf/db/site (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30545 /usr/lib64/libXtst.so.6.1.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485296 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/byte-buddy-agent-1.10.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485294 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/async-profiler-2.1-ea-2.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485349 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/winp-1.28.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485339 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/rd-core-0.212.307.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485337 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/protobuf-java-3.15.8.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485340 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/rd-framework-0.212.307.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485328 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlinx-serialization-json-jvm-1.1.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485327 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlinx-serialization-core-jvm-1.1.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485319 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/jps-model.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            170323 /usr/lib/locale/locale-archive (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30537 /usr/lib64/libXinerama.so.1.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30542 /usr/lib64/libXrender.so.1.3.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             30532 /usr/lib64/libXext.so.6.4.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1651111 /home/kostjaog/.config/dconf/user (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            171179 /usr/lib64/libgmodule-2.0.so.0.6800.4 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485308 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/groovy-jsr223-2.5.14.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485344 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/stats.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            448253 /etc/dconf/db/local (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,62         2    1212 /run/user/1000/dconf/user
+java    145676 kostjaog  mem       REG               0,32             30527 /usr/lib64/libXau.so.6.0.0 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1485293 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/annotations-java5.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485292 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/annotations-20.1.0.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485341 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/rd-swing-0.212.307.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485343 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/slf4j.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485336 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-statistics-devkit.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485324 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/kotlin-stdlib-jdk8.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496811 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libnet.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496814 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libnio.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485300 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/coverage-common.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485301 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/error_prone_annotations-2.3.1.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485304 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/forms_rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485295 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/bootstrap.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496878 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/modules (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496823 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libzip.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            528427 /var/lib/sss/mc/passwd (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496798 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libjimage.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496793 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libjava.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1496822 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/libverify.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32           1485302 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/external-system-rt.jar (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,39     32768   47317 /tmp/hsperfdata_kostjaog/145676
+java    145676 kostjaog  mem       REG               0,32            170606 /usr/lib64/librt-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            170592 /usr/lib64/libm-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496889 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/server/libjvm.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            170588 /usr/lib64/libc-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            170590 /usr/lib64/libdl-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32           1496774 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/jli/libjli.so (path dev=0,40)
+java    145676 kostjaog  mem       REG               0,32            170602 /usr/lib64/libpthread-2.33.so (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32             31627 /usr/lib64/libz.so.1.2.11 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            202295 /usr/lib64/libnss_sss.so.2 (path dev=0,34)
+java    145676 kostjaog  mem       REG               0,32            170581 /usr/lib64/ld-2.33.so (path dev=0,34)
+java    145676 kostjaog    0r      CHR                1,3       0t0       4 /dev/null
+java    145676 kostjaog    1u     unix 0x00000000e191b734       0t0 5608088 type=STREAM (CONNECTED)
+java    145676 kostjaog    2u     unix 0x00000000e191b734       0t0 5608088 type=STREAM (CONNECTED)
+java    145676 kostjaog    3r      REG               0,34   9253600  528427 /var/lib/sss/mc/passwd
+java    145676 kostjaog    4r      REG               0,40  62999976 1496878 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/modules
+java    145676 kostjaog    5r      REG               0,40    123214 1485295 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/bootstrap.jar
+java    145676 kostjaog    6r      REG               0,40  32541269 1485348 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/util.jar
+java    145676 kostjaog    7r      REG               0,40  25299025 1485299 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/clion.jar
+java    145676 kostjaog    8u     unix 0x00000000d1cf000d       0t0 5611801 type=STREAM (CONNECTED)
+java    145676 kostjaog    9r      REG               0,34    227244   59859 /usr/share/fonts/paktype-naskh-basic/PakTypeNaskhBasic.ttf
+java    145676 kostjaog   10u     unix 0x00000000702032db       0t0 5608100 type=STREAM (CONNECTED)
+java    145676 kostjaog   11u      CHR              226,0       0t0     494 /dev/dri/card0
+java    145676 kostjaog   12r      CHR                1,8       0t0       8 /dev/random
+java    145676 kostjaog   13r      CHR                1,9       0t0       9 /dev/urandom
+java    145676 kostjaog   14w      REG               0,40    573352 1496981 /home/kostjaog/.cache/JetBrains/CLion2021.2/log/idea.log
+java    145676 kostjaog   15u     unix 0x000000008d5499cb       0t0 5611185 type=STREAM (CONNECTED)
+java    145676 kostjaog   16u  a_inode               0,14         0   11736 [eventfd:559]
+java    145676 kostjaog   17u  a_inode               0,14         0   11736 [eventfd:562]
+java    145676 kostjaog   18u  a_inode               0,14         0   11736 [eventfd:563]
+java    145676 kostjaog   19u     unix 0x00000000f3bd83fa       0t0 5610238 type=STREAM (CONNECTED)
+java    145676 kostjaog   20u  a_inode               0,14         0   11736 [eventpoll:23,32]
+java    145676 kostjaog   21u  a_inode               0,14         0   11736 [eventfd:564]
+java    145676 kostjaog   22u     unix 0x000000000bbb8f5b       0t0 5608101 type=STREAM (CONNECTED)
+java    145676 kostjaog   23r     FIFO               0,13       0t0 5611805 pipe
+java    145676 kostjaog   24w     FIFO               0,13       0t0 5611805 pipe
+java    145676 kostjaog   25u  a_inode               0,14         0   11736 [eventpoll:26,42]
+java    145676 kostjaog   26r     FIFO               0,13       0t0 5611806 pipe
+java    145676 kostjaog   27w     FIFO               0,13       0t0 5611806 pipe
+java    145676 kostjaog   28u  a_inode               0,14         0   11736 [eventpoll:29]
+java    145676 kostjaog   29r     FIFO               0,13       0t0 5611807 pipe
+java    145676 kostjaog   30w     FIFO               0,13       0t0 5611807 pipe
+java    145676 kostjaog   31r     FIFO               0,13       0t0 5615660 pipe
+java    145676 kostjaog   32u     IPv6            5610243       0t0     TCP localhost:6942 (LISTEN)
+java    145676 kostjaog   33w     FIFO               0,13       0t0 5615660 pipe
+java    145676 kostjaog   34u     unix 0x00000000202b900c       0t0 5608104 type=STREAM (CONNECTED)
+java    145676 kostjaog   35u     unix 0x0000000000054f73       0t0 5614861 type=STREAM (CONNECTED)
+java    145676 kostjaog   36u     unix 0x00000000c5b46f31       0t0 5614864 type=STREAM (CONNECTED)
+java    145676 kostjaog   37u  a_inode               0,14         0   11736 [eventfd:568]
+java    145676 kostjaog   38r      REG               0,40   8773632 1496263 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/bin/icons.db
+java    145676 kostjaog   39r      REG               0,34    265624   59829 /usr/share/fonts/khmer-os-system-fonts/KhmerOS_sys.ttf
+java    145676 kostjaog   40r      REG               0,34     85820   59855 /usr/share/fonts/lohit-odia/Lohit-Odia.ttf
+java    145676 kostjaog   41r      REG               0,34    340712   59754 /usr/share/fonts/dejavu-sans-mono-fonts/DejaVuSansMono.ttf
+java    145676 kostjaog   42u     IPv6            5610244       0t0     TCP localhost:63342 (LISTEN)
+java    145676 kostjaog   43u      REG               0,40     28672 1497148 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex.storage
+java    145676 kostjaog   44r      REG               0,34  19981104   59790 /usr/share/fonts/google-noto-cjk/NotoSansCJK-Regular.ttc
+java    145676 kostjaog   45u      REG               0,40       174 1498298 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/idindex/IdIndex.storage.values.s
+java    145676 kostjaog   46r      REG               0,40 170702589 1485331 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/lib/platform-impl.jar
+java    145676 kostjaog   47r      REG               0,34    581048   59871 /usr/share/fonts/sil-abyssinica-fonts/AbyssinicaSIL-R.ttf
+java    145676 kostjaog   48r      REG               0,34   2269108   59800 /usr/share/fonts/jomolhari-fonts/Jomolhari-alpha3c-0605331.ttf
+java    145676 kostjaog   49r      REG               0,34  10845568   59792 /usr/share/fonts/google-noto-emoji/NotoColorEmoji.ttf
+java    145676 kostjaog   50r      REG               0,34    170576   59741 /usr/share/fonts/cantarell/Cantarell-VF.otf
+java    145676 kostjaog   51r      REG               0,34    103628   59736 /usr/share/fonts/cantarell/Cantarell-Bold.otf
+java    145676 kostjaog   52r      REG               0,40    171876 1496758 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/fonts/JetBrainsMono-Regular.ttf
+java    145676 kostjaog   53u      REG               0,40        96 1498076 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/.persistent/idindex/values.values.s
+java    145676 kostjaog   54u      REG               0,40       225 1498064 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/.persistent/trigram.index/values.values.s
+java    145676 kostjaog   55r      REG               0,40    147796 1496746 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/fonts/JetBrainsMono-Bold-Italic.ttf
+java    145676 kostjaog   56u      REG               0,40    155648 1497002 /home/kostjaog/.cache/JetBrains/CLion2021.2/icons-v3.db
+java    145676 kostjaog   58r      REG               0,34    207992  475923 /usr/share/fonts/opensymbol/opens___.ttf
+java    145676 kostjaog   59r      REG               0,34   2440452   59764 /usr/share/fonts/gdouros-symbola/Symbola.ttf
+java    145676 kostjaog   60u      REG               0,40     67992 1497126 /home/kostjaog/.cache/JetBrains/CLion2021.2/caches/attrib.dat.storageRecordIndex
+java    145676 kostjaog   61u      REG               0,40  43082273 1497127 /home/kostjaog/.cache/JetBrains/CLion2021.2/caches/attrib.dat.storageData
+java    145676 kostjaog   62u      REG               0,40      8008 1497128 /home/kostjaog/.cache/JetBrains/CLion2021.2/caches/content.dat.storageRecordIndex
+java    145676 kostjaog   63u      REG               0,40   1185932 1497129 /home/kostjaog/.cache/JetBrains/CLion2021.2/caches/content.dat.storageData
+java    145676 kostjaog   64r      REG               0,34    577608   59755 /usr/share/fonts/dejavu-serif-fonts/DejaVuMathTeXGyre.ttf
+java    145676 kostjaog   65u      REG               0,40      5568 1497141 /home/kostjaog/.cache/JetBrains/CLion2021.2/LocalHistory/changes.storageRecordIndex
+java    145676 kostjaog   66u      REG               0,40      4096 1497153 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex_inputs
+java    145676 kostjaog   67u      REG               0,40     32008 1497142 /home/kostjaog/.cache/JetBrains/CLion2021.2/LocalHistory/changes.storageData
+java    145676 kostjaog   68u  a_inode               0,14         0   11736 [eventfd:575]
+java    145676 kostjaog   69u  a_inode               0,14         0   11736 [eventpoll:82]
+java    145676 kostjaog   70r      REG               0,40   6281390 1485765 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/plugins/grazie/lib/language-en-5.4.jar
+java    145676 kostjaog   71u      REG               0,40     28672 1497400 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage
+java    145676 kostjaog   72w     FIFO               0,13       0t0 5611197 pipe
+java    145676 kostjaog   73r     FIFO               0,13       0t0 5611198 pipe
+java    145676 kostjaog   74u      REG               0,40      4096 1497404 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex_inputs
+java    145676 kostjaog   75r     FIFO               0,13       0t0 5611199 pipe
+java    145676 kostjaog   76u      REG               0,40      4096 1497517 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/py.module.name/Py.module.name.storage
+java    145676 kostjaog   77u      REG               0,40      4096 1497521 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/py.module.name/Py.module.name_inputs
+java    145676 kostjaog   78u      REG               0,40     12288 1627199 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filetypes/filetypes.log.index.project
+java    145676 kostjaog   79r      REG               0,34    380132   59759 /usr/share/fonts/dejavu-serif-fonts/DejaVuSerif.ttf
+java    145676 kostjaog   80w     FIFO               0,13       0t0 5615391 pipe
+java    145676 kostjaog   81r     FIFO               0,13       0t0 5615392 pipe
+java    145676 kostjaog   82r     FIFO               0,13       0t0 5611888 pipe
+java    145676 kostjaog   83r      REG               0,40    173264 1496747 /home/kostjaog/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5457.51/jbr/lib/fonts/JetBrainsMono-Bold.ttf
+java    145676 kostjaog   84w     FIFO               0,13       0t0 5611888 pipe
+java    145676 kostjaog   85u  a_inode               0,14         0   11736 [eventpoll:86]
+java    145676 kostjaog   86r     FIFO               0,13       0t0 5611889 pipe
+java    145676 kostjaog   87w     FIFO               0,13       0t0 5611889 pipe
+java    145676 kostjaog   88u  a_inode               0,14         0   11736 [eventpoll:89]
+java    145676 kostjaog   89r     FIFO               0,13       0t0 5611890 pipe
+java    145676 kostjaog   90w     FIFO               0,13       0t0 5611890 pipe
+java    145676 kostjaog   91u  a_inode               0,14         0   11736 [eventpoll:92]
+java    145676 kostjaog   92r     FIFO               0,13       0t0 5611891 pipe
+java    145676 kostjaog   93w     FIFO               0,13       0t0 5611891 pipe
+java    145676 kostjaog   94u  a_inode               0,14         0   11736 [eventpoll:95]
+java    145676 kostjaog   95r     FIFO               0,13       0t0 5611892 pipe
+java    145676 kostjaog   96w     FIFO               0,13       0t0 5611892 pipe
+java    145676 kostjaog   97u  a_inode               0,14         0   11736 [eventpoll:98]
+java    145676 kostjaog   98r     FIFO               0,13       0t0 5611893 pipe
+java    145676 kostjaog   99w     FIFO               0,13       0t0 5611893 pipe
+java    145676 kostjaog  100u  a_inode               0,14         0   11736 [eventpoll:101]
+java    145676 kostjaog  101r     FIFO               0,13       0t0 5611894 pipe
+java    145676 kostjaog  102w     FIFO               0,13       0t0 5611894 pipe
+java    145676 kostjaog  103u  a_inode               0,14         0   11736 [eventpoll:104]
+java    145676 kostjaog  104r     FIFO               0,13       0t0 5611895 pipe
+java    145676 kostjaog  105w     FIFO               0,13       0t0 5611895 pipe
+java    145676 kostjaog  106u  a_inode               0,14         0   11736 [eventpoll:107]
+java    145676 kostjaog  107r     FIFO               0,13       0t0 5611896 pipe
+java    145676 kostjaog  108w     FIFO               0,13       0t0 5611896 pipe
+java    145676 kostjaog  109u  a_inode               0,14         0   11736 [eventpoll:110]
+java    145676 kostjaog  110r     FIFO               0,13       0t0 5611897 pipe
+java    145676 kostjaog  111w     FIFO               0,13       0t0 5611897 pipe
+java    145676 kostjaog  112u  a_inode               0,14         0   11736 [eventpoll:113]
+java    145676 kostjaog  113r     FIFO               0,13       0t0 5611898 pipe
+java    145676 kostjaog  114w     FIFO               0,13       0t0 5611898 pipe
+java    145676 kostjaog  115u  a_inode               0,14         0   11736 [eventpoll:116]
+java    145676 kostjaog  116r     FIFO               0,13       0t0 5611899 pipe
+java    145676 kostjaog  117w     FIFO               0,13       0t0 5611899 pipe
+java    145676 kostjaog  118u  a_inode               0,14         0   11736 [eventpoll:119]
+java    145676 kostjaog  119r     FIFO               0,13       0t0 5611900 pipe
+java    145676 kostjaog  120w     FIFO               0,13       0t0 5611900 pipe
+java    145676 kostjaog  121u  a_inode               0,14         0   11736 [eventpoll:122]
+java    145676 kostjaog  122r     FIFO               0,13       0t0 5611901 pipe
+java    145676 kostjaog  123w     FIFO               0,13       0t0 5611901 pipe
+java    145676 kostjaog  124u  a_inode               0,14         0   11736 [eventpoll:125]
+java    145676 kostjaog  125r     FIFO               0,13       0t0 5611902 pipe
+java    145676 kostjaog  126w     FIFO               0,13       0t0 5611902 pipe
+java    145676 kostjaog  127u  a_inode               0,14         0   11736 [eventpoll:128]
+java    145676 kostjaog  128r     FIFO               0,13       0t0 5611903 pipe
+java    145676 kostjaog  129w     FIFO               0,13       0t0 5611903 pipe
+java    145676 kostjaog  130u      REG               0,40    806585 1498075 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/.persistent/idindex/values.values
+java    145676 kostjaog  131u      REG               0,40   1880734 1498063 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/.persistent/trigram.index/values.values
+java    145676 kostjaog  132u      REG               0,40   2407234 1498282 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/trigram.index/Trigram.Index.storage.values
+java    145676 kostjaog  133u      REG               0,40       369 1498283 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/trigram.index/Trigram.Index.storage.values.s
+java    145676 kostjaog  134u      REG               0,40   1265923 1498297 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/idindex/IdIndex.storage.values
+java    145676 kostjaog  135u      REG               0,40     36864 1498290 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex.storage.keystream
+java    145676 kostjaog  136u      REG               0,40     32768 1498383 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage_i
+java    145676 kostjaog  137u      REG               0,40     36864 1498384 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex.storage.keystream
+java    145676 kostjaog  138r      REG               0,34     52760  256524 /usr/share/fonts/google-noto/NotoSansGurmukhi-Regular.ttf
+java    145676 kostjaog  139r      REG               0,34    358248  256539 /usr/share/fonts/google-noto-vf/NotoSansSinhala-VF.ttf
+java    145676 kostjaog  141r      REG               0,34    757076   59746 /usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf
+java    145676 kostjaog  142r     FIFO               0,13       0t0 5615393 pipe
+java    145676 kostjaog  291u      REG               0,40     32768 1498048 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex_inputs_i
+java    145676 kostjaog  292u      REG               0,40     32768 1498049 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenamewithoutextensionindex/FileNameWithoutExtensionIndex_inputs_i
+java    145676 kostjaog  293u      REG               0,40     32768 1498289 /home/kostjaog/.cache/JetBrains/CLion2021.2/index/filenameindex/FilenameIndex.storage_i
